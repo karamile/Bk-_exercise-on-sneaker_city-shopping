@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  brand: MyString
+  model: MyString
+  size: 1
+  quantity: 1
+  image: 
+  release_date: 2019-04-22 17:13:12
+
+two:
+  brand: MyString
+  model: MyString
+  size: 1
+  quantity: 1
+  image: 
+  release_date: 2019-04-22 17:13:12
